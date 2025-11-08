@@ -1,4 +1,4 @@
-# Movement Detector
+# Ai Movement Detector
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
